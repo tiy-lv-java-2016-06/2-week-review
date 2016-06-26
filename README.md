@@ -4,7 +4,7 @@
 
 ## Description
 
-Create a project called `People` with [this file](https://raw.githubusercontent.com/oakes/java-assignments/master/projects/People/people.csv) in the project root. Read the csv file into a `HashMap<String, ArrayList<Person>>` that maps country name to a list of people who are from that country. Then loop over the lists in your `HashMap` and sort them by last name.
+Create a project called `People` with [people.csv](https://raw.githubusercontent.com/tiy-lv-java-2016-06/2-week-review/master/people.csv) in the project root. Read the csv file into a `HashMap<String, ArrayList<Person>>` that maps country name to a list of people who are from that country. Then loop over the lists in your `HashMap` and sort them by last name.
 
 ## Requirements
 
